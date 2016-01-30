@@ -1,0 +1,11 @@
+{
+  "name": "sarad-learner",
+  "version": "1.0.0",
+  "description": "learn an LSTM model from sarad codes",
+  "main": "app/main.js",
+  "author": "ABA",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
